@@ -1,2 +1,0 @@
-# Razorpay-Clone
- tailwind 
