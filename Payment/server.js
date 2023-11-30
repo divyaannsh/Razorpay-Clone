@@ -5,7 +5,7 @@ const bodyParser = require('body-parser');
 const Razorpay = require('razorpay');
 
 const app = express();
-const port = 3000;
+const port = 7000;
 
 const razorpay = new Razorpay({
   key_id: 'your_key_id',
